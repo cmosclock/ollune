@@ -1619,4 +1619,4 @@ that can be found at https://www.live2d.com/eula/live2d-open-software-license-ag
 
 Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1: see OFL.txt.
+This Font Software is licensed under the SIL Open Font License, Version 1.1: see credits/nunito-ofl.txt.

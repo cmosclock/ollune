@@ -16,7 +16,7 @@ Live2D Cubism SDK for Web Framework (in assets/, bundled by pixi-live2d-display)
   Software license: https://www.live2d.com/eula/live2d-open-software-license-agreement_en.html
 
 Nunito (embedded in the stylesheet)
-  Copyright 2014 The Nunito Project Authors, under the SIL Open Font License 1.1 (OFL.txt)
+  Copyright 2014 The Nunito Project Authors, under the SIL Open Font License 1.1 (credits/nunito-ofl.txt)
 
 React, pixi.js, pixi-live2d-display and the other bundled packages: THIRD-PARTY-LICENSES.md
 Loaded from jsDelivr when linking devices, not part of this site: Trystero (MIT), qrcode-generator (MIT)
