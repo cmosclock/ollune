@@ -1,0 +1,22 @@
+Ollune: credits
+
+Mao (live2d/Mao/), a Live2D sample model
+  This content uses sample data owned and copyrighted by Live2D Inc. The sample data are utilized in
+  accordance with terms and conditions set by Live2D Inc. This content itself is created at the author's
+  sole discretion.
+  Live2D Free Material License: https://www.live2d.com/eula/live2d-free-material-license-agreement_en.html
+  Sample data terms: https://www.live2d.com/en/learn/sample/model-terms/
+
+Live2D Cubism Core (vendor/live2dcubismcore.min.js)
+  (c) Live2D Inc., under the Live2D Proprietary Software License:
+  https://www.live2d.com/eula/live2d-proprietary-software-license-agreement_en.html
+
+Live2D Cubism SDK for Web Framework (in assets/, bundled by pixi-live2d-display)
+  Copyright(c) Live2D Inc. All rights reserved. Use of this source code is governed by the Live2D Open
+  Software license: https://www.live2d.com/eula/live2d-open-software-license-agreement_en.html
+
+Nunito (embedded in the stylesheet)
+  Copyright 2014 The Nunito Project Authors, under the SIL Open Font License 1.1 (OFL.txt)
+
+React, pixi.js, pixi-live2d-display and the other bundled packages: THIRD-PARTY-LICENSES.md
+Loaded from jsDelivr when linking devices, not part of this site: Trystero (MIT), qrcode-generator (MIT)

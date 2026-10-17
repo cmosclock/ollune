@@ -1,0 +1,1 @@
+var e=()=>Promise.reject(Error(`not in this build`)),t=e,n=e,r=e,i=()=>{},a=()=>{},o=()=>{};export{a as destroyLive2D,o as destroyPortrait,i as destroyPuppet,t as mountLive2D,n as mountPortrait,r as mountPuppet};
